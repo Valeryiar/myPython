@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c897dfc3-e8a5-4561-8e05-ebc2c20f2f4c" name="Default Changelist" comment="" />
+    <list default="true" id="c897dfc3-e8a5-4561-8e05-ebc2c20f2f4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/testAddGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/testAddGroup.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -27,17 +29,27 @@
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testAddGroup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
-                <element signature="e#24#82#0" expanded="true" />
+                <element signature="e#24#74#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,11 +60,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="259" />
-    <option name="y" value="7" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testAddGroup.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1288" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,12 +144,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 23m 36s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 25m 22s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 27m 48s.xml">
       <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
     </history-entry>
@@ -143,24 +156,43 @@
     <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 33m 46s.xml">
       <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 42m 05s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 46m 00s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 52m 44s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 15h 18m 50s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 16h 20m 38s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 16h 21m 05s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="259" y="7" width="1400" height="1000" extended-state="0" />
+    <frame x="-1288" y="-8" width="1296" height="1040" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27027026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31497797" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -172,10 +204,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testAddGroup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="68">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="e#24#82#0" expanded="true" />
+            <element signature="e#24#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
