@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c897dfc3-e8a5-4561-8e05-ebc2c20f2f4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testAddGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/testAddGroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testAddContact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testAddGroup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testAddGroup.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,35 +24,89 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="6" />
+          <entry key="testAddContact" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="746" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="746" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testAddGroup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#1#14#0" expanded="true" />
+                <marker date="1543491126532" expanded="true" signature="430:519" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testAddGroup.py">
+        <entry file="file://$PROJECT_DIR$/test/testAddContact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <marker date="1543496077004" expanded="true" signature="80:85" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
               <folding>
-                <element signature="e#24#74#0" expanded="true" />
+                <marker date="1543408923844" expanded="true" signature="12:17" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding>
+                <marker date="1543496126019" expanded="true" signature="14:15" ph="..." />
+                <marker date="1543496126019" expanded="true" signature="14:20" ph="..." />
               </folding>
             </state>
           </provider>
@@ -57,21 +114,35 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/group.py" />
         <option value="$PROJECT_DIR$/testAddGroup.py" />
+        <option value="$PROJECT_DIR$/application.py" />
+        <option value="$PROJECT_DIR$/contact.py" />
+        <option value="$PROJECT_DIR$/testAddContact.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1288" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -84,6 +155,16 @@
             <path>
               <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="myPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPython" type="462c0819:PsiDirectoryNode" />
+              <item name="env" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPython" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -108,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest in testAddGroup.py">
     <configuration name="Unittests in testAddGroup.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="myPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,12 +201,49 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testAddGroup.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/testAddGroup.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in testAddContact.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="myPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/testAddContact.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in testAddGroup.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="myPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/testAddGroup.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in testAddGroup.py" />
+      <item itemvalue="Python tests.pytest in testAddGroup.py" />
+      <item itemvalue="Python tests.pytest in testAddContact.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in testAddGroup.py" />
+        <item itemvalue="Python tests.pytest in testAddContact.py" />
         <item itemvalue="Python tests.Unittests in testAddGroup.py" />
       </list>
     </recent_temporary>
@@ -144,47 +262,46 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 27m 48s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 28m 59s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 31m 19s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 33m 46s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 42m 05s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 46m 00s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 14h 52m 44s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 15h 18m 50s.xml">
-      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 16h 20m 38s.xml">
       <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_testAddGroup_py - 2018.11.27 at 16h 21m 05s.xml">
       <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.28 at 14h 45m 01s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.29 at 14h 10m 32s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.29 at 14h 14m 07s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testAddGroup_py - 2018.11.29 at 14h 16m 57s.xml">
+      <configuration name="Unittests in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testAddGroup_py - 2018.11.29 at 15h 28m 38s.xml">
+      <configuration name="pytest in testAddGroup.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testAddContact_py - 2018.11.29 at 15h 54m 49s.xml">
+      <configuration name="pytest in testAddContact.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testAddContact_py - 2018.11.29 at 15h 55m 38s.xml">
+      <configuration name="pytest in testAddContact.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testAddContact_py - 2018.11.29 at 15h 56m 11s.xml">
+      <configuration name="pytest in testAddContact.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1288" y="-8" width="1296" height="1040" extended-state="7" />
-    <editor active="true" />
+    <frame x="-1288" y="-8" width="1296" height="1040" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27027026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27027026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31497797" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31497797" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -202,12 +319,57 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testAddGroup.py">
+    <entry file="file://$PROJECT_DIR$/testAddContact">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <marker date="1543496126019" expanded="true" signature="14:15" ph="..." />
+            <marker date="1543496126019" expanded="true" signature="14:20" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding>
-            <element signature="e#24#74#0" expanded="true" />
+            <marker date="1543408923844" expanded="true" signature="12:17" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <marker date="1543496077004" expanded="true" signature="80:85" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testAddGroup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1543491126532" expanded="true" signature="430:519" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testAddContact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
