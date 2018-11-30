@@ -14,7 +14,7 @@ browser.get('http://google.com/')
 browser.quit()
 
 
-@pytest.fixture
+@pytest.fixture(scope="session")
 def app(request):
     fixture = Application()
     request.addfinalizer(fixture.destroy)
